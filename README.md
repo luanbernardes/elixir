@@ -1,2 +1,4 @@
-# elixir
-Focus in Elixir with Phoenix.
+# Elixir lang
+
+- Trying with Phoenix
+- Pracitcing algorithims
